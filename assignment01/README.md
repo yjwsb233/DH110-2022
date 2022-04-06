@@ -74,6 +74,7 @@ The user has a lot of control on the website as to how they want to play the son
 There isn't really much to critique about the UX consistency of the website as the design as well as icons are used consistently. The fact that each section is a pop up page from the left makes makes it easy for the user to navigate back to the page that they want – even if they accidentally click on something wrong, they wouldn't have to worry about not recognizing the page.
 
 5. Error prevention 
+
 Error prevention on Songsterr is only problematic if the user finds themselves on the wrong track and don't know how to switch to another track. I think that a better way to approach this is by highlighting the track part with a pop-up text box so that the user knows where to switch. 
 
 6.  Recognition vs. Recall
@@ -88,7 +89,9 @@ Like mentioned before, the website is easy to navigate around and the users don'
 The design of the web really coheres to what we regard as minimalist and aesthetic. Songsterr has a much more modern design compared to Ultimate guitar in that it shows a bright and simple surface. However, the About page and the Terms of Use page are placed at the bottom of the tabs page, so depending on the length of the tabs, the users would spend different time trying to find them and may not even know that they exist. It might be better if this part shows up as a banner that stays at the bottom of the screen wherever the user scrolls.
 
 9. Help users with errors
+
 On the left of the screen, there is a section called Questions? which includes many popular questions about the website. This is very helpful and easy to find so that users can easily know how to tackle their errors. 
 
 10. Help and documentation
+
 Similar to Ultimate guitar, there is a blog section on Songsterr, but it is separate from the main tabs page. This means that if the user want to learn more about guitar from other players, there is still a community on Songsterr. However, as the page is separate, they might find it difficult to navigate between different pages. Here, it seems that the comment section of Ultimate Guitar makes it seems more like a community.
