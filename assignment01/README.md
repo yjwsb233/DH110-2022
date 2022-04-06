@@ -49,3 +49,24 @@ On the bottom of the website, there are multiple features that can be accessed. 
 
 On the bottom of the page, there is also About and Site rules, but it is less indicative where the users can find a guide to navigate the website, which makes it less beginner-friendly. Truthfully, it seems that Ultimate Guitar has been used by people for a long time and any major change to the website may upset its long-time users. If that is the case, then a comprehensive guide to the website becomes more necessary. 
 
+Second Website name: __Songsterr__
+![Screenshot](https://image.thum.io/get/auth/3406-rmthumb/width/800/crop/800/https://songsterr.com)
+
+1. Visibility of system status
+
+From the website, the users can see pretty clearly what page they are on. As the website is focused on tabs, the web page is mostly occupied by the actual tabs of the songs. On the right side of the page, there is a list of different icons. One of these icons allows the user to select which track that they want to play in the song, like distortion, clean, bass, etc. This, however, is not clear enough from the icon itself, especially among the different tracks of guitar. There is a text indicator though under the namme of the song, but it might be able to be better indicated so that the text is connected to the icon and the users can see clearly how to swtich tracks.
+
+
+2. Match between system and the real world
+
+As mentioned before, the site has intuitive symbols which can be easily understood by contemporary computer users. The tabs also have complete information about the song in terms of tempo, lyrics, and chords, which makes it very readable to people who know how to read tabs. The play function of these tabs also means that the user can listen to the song to better understand its rhythm. 
+
+3. User control and freedom
+
+The user has a lot of control on the website as to how they want to play the song. However, the filter system is not as sophisticated compared to Ultimate Guitar because the users can't filter by genre and decade. It really means that the users need to have specific songs in mind or else they can only choose songs according to difficulty. 
+
+4. UX consistency and standards
+
+There isn't really much to critique about the UX consistency of the website as the design as well as icons are used consistently. The fact that each section is a pop up page from the left makes i
+
+Songsterr has a much more modern design in that it shows a bright and simple surface
