@@ -79,5 +79,14 @@ Error prevention on Songsterr is only problematic if the user finds themselves o
 When I first started using this website, I found that the list of symbols on the right are a little bit difficult to understand. They do have alt texts that appear when you hover over them but these alt-texts appear rather slowly, so sometimes you can only figure out what the button does by clicking on it, which is less intuitive. I think, in this case, the alt-text could be a more built-in function of the web page so that it immediately pops up when the cursor hovers on it.
 
 7.  Flexibility and efficiency of use
-Like mentioned before, the website is easy to navigate around and the users don't have to worry about losing the main page. 
-Songsterr has a much more modern design in that it shows a bright and simple surface. 
+Like mentioned before, the website is easy to navigate around and the users don't have to worry about losing the main page. What I think could be better on this website is to mark the functions that are available only to members. For example, the speed function can only be used by people who have Songsterr plus, and the users can only find out about it tby clicking on the button. It could be better if the buttons that are in the Plus membership are shown in other colors or in a different section.
+
+8. Aesthetic and minimalistic design
+
+The design of the web really coheres to what we regard as minimalist and aesthetic. Songsterr has a much more modern design compared to Ultimate guitar in that it shows a bright and simple surface. However, the About page and the Terms of Use page are placed at the bottom of the tabs page, so depending on the length of the tabs, the users would spend different time trying to find them and may not even know that they exist. It might be better if this part shows up as a banner that stays at the bottom of the screen wherever the user scrolls.
+
+9. Help users with errors
+On the left of the screen, there is a section called Questions? which includes many popular questions about the website. This is very helpful and easy to find so that users can easily know how to tackle their errors. 
+
+10. Help and documentation
+Similar to Ultimate guitar, there is a blog section on Songsterr, but it is separate from the main tabs page. This means that if the user want to learn more about guitar from other players, there is still a community on Songsterr. However, as the page is separate, they might find it difficult to navigate between different pages. Here, it seems that the comment section of Ultimate Guitar makes it seems more like a community.
