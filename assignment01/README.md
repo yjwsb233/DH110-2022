@@ -7,6 +7,7 @@ Tentative Project Title: __Tuning Ultimate Guitar__
 Project Description: My project consists of a usability analysis of the website Ultimate Guitar, which is used by music learners around the world to find the chords and tabs to the songs that they want to learn. With the heuristics evaluation, I propose where the website could be improved for middle-aged audiences who are just beginning to learn guitar. 
 
 Website name: __Ultimate Guitar__
+URL: https://www.ultimate-guitar.com/
 ![Screenshot](https://www.ultimate-guitar.com/static/article/draft/75319_TURaiZqbTCjnj5AP_37917.jpg)
 
 1. Visibility of system status
@@ -50,6 +51,7 @@ On the bottom of the website, there are multiple features that can be accessed. 
 On the bottom of the page, there is also About and Site rules, but it is less indicative where the users can find a guide to navigate the website, which makes it less beginner-friendly. Truthfully, it seems that Ultimate Guitar has been used by people for a long time and any major change to the website may upset its long-time users. If that is the case, then a comprehensive guide to the website becomes more necessary. 
 
 Second Website name: __Songsterr__
+URL: https://www.songsterr.com/
 ![Screenshot](https://image.thum.io/get/auth/3406-rmthumb/width/800/crop/800/https://songsterr.com)
 
 1. Visibility of system status
