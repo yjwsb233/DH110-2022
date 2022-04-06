@@ -67,6 +67,15 @@ The user has a lot of control on the website as to how they want to play the son
 
 4. UX consistency and standards
 
-There isn't really much to critique about the UX consistency of the website as the design as well as icons are used consistently. The fact that each section is a pop up page from the left makes i
+There isn't really much to critique about the UX consistency of the website as the design as well as icons are used consistently. The fact that each section is a pop up page from the left makes makes it easy for the user to navigate back to the page that they want – even if they accidentally click on something wrong, they wouldn't have to worry about not recognizing the page.
 
-Songsterr has a much more modern design in that it shows a bright and simple surface
+5. Error prevention 
+Error prevention on Songsterr is only problematic if the user finds themselves on the wrong track and don't know how to switch to another track. I think that a better way to approach this is by highlighting the track part with a pop-up text box so that the user knows where to switch. 
+
+6.  Recognition vs. Recall
+
+When I first started using this website, I found that the list of symbols on the right are a little bit difficult to understand. They do have alt texts that appear when you hover over them but these alt-texts appear rather slowly, so sometimes you can only figure out what the button does by clicking on it, which is less intuitive. I think, in this case, the alt-text could be a more built-in function of the web page so that it immediately pops up when the cursor hovers on it.
+
+7.  Flexibility and efficiency of use
+Like mentioned before, the website is easy to navigate around and the users don't have to worry about losing the main page. 
+Songsterr has a much more modern design in that it shows a bright and simple surface. 
